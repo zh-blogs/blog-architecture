@@ -14,6 +14,10 @@
     { "name":"WordPress" , "url":"https://cn.wordpress.org/" },
     { "name":"Wowchemy" , "url":"https://wowchemy.com/zh/" },
     { "name":"ZBlog" , "url":"https://www.zblogcn.com/" },
+    { "name":"izone" , "url":"https://github.com/Hopetree/izone" },
+    { "name":"emlog" , "url":"https://www.emlog.net/" },
+    { "name":"ZrLog" , "url":"https://www.zrlog.com/" },
+    { "name":"Nucleus" , "url":"http://nucleuscms.org/" },
     { "name":"Gatsby" , "url":"https://www.gatsbyjs.com/" }
     ]
 }
