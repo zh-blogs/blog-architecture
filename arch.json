@@ -1,0 +1,19 @@
+{
+    "arch": [
+    { "name":"blogdown" , "url":"https://github.com/rstudio/blogdown" }, 
+    { "name":"Docusaurus" , "url":"https://docusaurus.io/" },
+    { "name":"Ghost" , "url":"https://ghost.org/" },
+    { "name":"Gride" , "url":"https://gridea.dev/" },
+    { "name":"Halo" , "url":"https://github.com/halo-dev/halo" },
+    { "name":"Hexo" , "url":"https://hexo.io/zh-cn/" },
+    { "name":"HUGO" , "url":"https://gohugo.io/" },
+    { "name":"Jekyll" , "url":"https://jekyllrb.com/" },
+    { "name":"Pelican" , "url":"https://blog.getpelican.com/" },
+    { "name":"Typecho" , "url":"https://typecho.org/" },
+    { "name":"VuePress" , "url":"https://vuepress.vuejs.org/" },
+    { "name":"WordPress" , "url":"https://cn.wordpress.org/" },
+    { "name":"Wowchemy" , "url":"https://wowchemy.com/zh/" },
+    { "name":"ZBlog" , "url":"https://www.zblogcn.com/" },
+    { "name":"Gatsby" , "url":"https://www.gatsbyjs.com/" }
+    ]
+}
