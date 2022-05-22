@@ -15,9 +15,9 @@
     { "name":"Wowchemy" , "url":"https://wowchemy.com/zh/" , "slug":"" },
     { "name":"ZBlog" , "url":"https://www.zblogcn.com/" , "slug":"开源免费、小巧强大的博客程序与 CMS 建站系统" },
     { "name":"izone" , "url":"https://github.com/Hopetree/izone" , "slug":"" },
-    { "name":"emlog" , "url":"https://www.emlog.net/" , "slug":"基于PHP\MySQL的博客及CMS建站系统，追求快速稳定、简单舒适的创作体验。" },
-    { "name":"ZrLog" , "url":"https://www.zrlog.com/" , "slug":"" },
+    { "name":"emlog" , "url":"https://www.emlog.net/" , "slug":"基于PHP、MySQL的博客及CMS建站系统，追求快速稳定、简单舒适的创作体验。" },
+    { "name":"ZrLog" , "url":"https://www.zrlog.com/" , "slug":"可能是最好用的开源 Java 博客程序" },
     { "name":"Nucleus" , "url":"http://nucleuscms.org/" , "slug":"" },
-    { "name":"Gatsby" , "url":"https://www.gatsbyjs.com/" , "slug":"" }
+    { "name":"Gatsby" , "url":"https://www.gatsbyjs.com/" , "slug":"Gatsby 是一个快速灵活的框架，它让使用任何 CMS、API 或数据库构建网站再次变得有趣。" }
     ]
 }
