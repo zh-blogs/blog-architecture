@@ -3,7 +3,7 @@
     { "name":"blogdown" , "url":"https://github.com/rstudio/blogdown" , "slug":"" }, 
     { "name":"Docusaurus" , "url":"https://docusaurus.io/" , "slug":"" },
     { "name":"Ghost" , "url":"https://ghost.org/" , "slug":"" },
-    { "name":"Gride" , "url":"https://gridea.dev/" , "slug":"" },
+    { "name":"Gridea" , "url":"https://gridea.dev/" , "slug":"Gridea 是一个静态博客写作客户端，帮助你更容易地构建并管理博客或任何静态站点。" },
     { "name":"Halo" , "url":"https://github.com/halo-dev/halo" , "slug":"一款现代化的开源博客 / CMS 系统" },
     { "name":"Hexo" , "url":"https://hexo.io/zh-cn/" , "slug":"快速、简洁且高效的博客框架" },
     { "name":"HUGO" , "url":"https://gohugo.io/" , "slug":"世界上最快的网站构建框架" },
@@ -18,6 +18,8 @@
     { "name":"emlog" , "url":"https://www.emlog.net/" , "slug":"基于PHP、MySQL的博客及CMS建站系统，追求快速稳定、简单舒适的创作体验。" },
     { "name":"ZrLog" , "url":"https://www.zrlog.com/" , "slug":"可能是最好用的开源 Java 博客程序" },
     { "name":"Nucleus" , "url":"http://nucleuscms.org/" , "slug":"" },
+    { "name":"织梦DedeCMS" , "url":"https://www.dedecms.com/" , "slug":"" },
+    { "name":"无名轻博客" , "url":"https://github.com/allures/wmqbk-Php" , "slug":"" },
     { "name":"Gatsby" , "url":"https://www.gatsbyjs.com/" , "slug":"Gatsby 是一个快速灵活的框架，它让使用任何 CMS、API 或数据库构建网站再次变得有趣。" }
     ]
 }
