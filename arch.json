@@ -108,6 +108,21 @@
 			"name": "Gatsby",
 			"url": "https://www.gatsbyjs.com/",
 			"slug": "Gatsby 是一个快速灵活的框架，它让使用任何 CMS、API 或数据库构建网站再次变得有趣。"
+		},
+		{
+			"name": "Bolo",
+			"url": "https://github.com/AdlerED/bolo-solo",
+			"slug": "专为程序员设计的精致Java博客系统"
+		},
+		{
+			"name": "Puti",
+			"url": "https://github.com/puti-projects/puti",
+			"slug": "Go 语言实现的全功能写作系统"
+		},
+		{
+			"name": "Octopress",
+			"url": "http://octopress.org/",
+			"slug": "一个给黑客的博客架构"
 		}
 	]
 }
