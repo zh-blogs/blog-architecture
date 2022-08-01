@@ -100,9 +100,9 @@
 			"slug": ""
 		},
 		{
-			"name": "无名轻博客",
-			"url": "https://github.com/allures/wmqbk-Php",
-			"slug": ""
+			"name": "Laravel",
+			"url": "https://laravel.p2hp.com/",
+			"slug": "为 Web 工匠创造的 PHP 框架"
 		},
 		{
 			"name": "Gatsby",
@@ -118,6 +118,16 @@
 			"name": "Puti",
 			"url": "https://github.com/puti-projects/puti",
 			"slug": "Go 语言实现的全功能写作系统"
+		},
+		{
+			"name": "Django",
+			"url": "https://www.djangoproject.com/",
+			"slug": ""
+		},
+		{
+			"name": "极致CMS",
+			"url": "https://gitee.com/Cherry_toto/jizhicms",
+			"slug": "一款开源免费，无商业授权的建站系统"
 		},
 		{
 			"name": "Octopress",
