@@ -130,6 +130,21 @@
 			"slug": "一款开源免费，无商业授权的建站系统"
 		},
 		{
+			"name": "Zola",
+			"url": "https://www.getzola.org/",
+			"slug": "您的一站式静态站点引擎"
+		},
+		{
+			"name": "PbootCMS",
+			"url": "https://www.pbootcms.com/",
+			"slug": "永久开源免费的PHP企业网站开发建设管理系统"
+		},
+		{
+			"name": "Gitblog",
+			"url": "https://gitee.com/mirrors/gitblog",
+			"slug": "一个简单易用的 Markdown 博客系统"
+		},
+		{
 			"name": "Octopress",
 			"url": "http://octopress.org/",
 			"slug": "一个给黑客的博客架构"
