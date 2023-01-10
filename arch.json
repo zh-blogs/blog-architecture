@@ -145,6 +145,11 @@
 			"slug": "一个简单易用的 Markdown 博客系统"
 		},
 		{
+			"name": "Mog",
+			"url": "https://github.com/mogland/core",
+			"slug": "Mog 是一个易于扩展的现代博客系统。它突破地采用了微服务架构，在结构设计是模块化、灵活的。 您可以轻松地将其自定义以满足您的需求。 "
+		},
+		{
 			"name": "Octopress",
 			"url": "http://octopress.org/",
 			"slug": "一个给黑客的博客架构"
