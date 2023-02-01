@@ -153,6 +153,10 @@
 			"name": "Octopress",
 			"url": "http://octopress.org/",
 			"slug": "一个给黑客的博客架构"
+		},
+		{	"name":"MkDocs",
+		 	"url": "https://www.mkdocs.org/",
+		 	"slug": "MkDocs 是一个快速、简单且完全华丽的静态站点生成器，适用于构建项目文档"
 		}
 	]
 }
